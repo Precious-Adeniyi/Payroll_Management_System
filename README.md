@@ -51,4 +51,4 @@ employee payroll calculations, record management, and data storage.
 ```
 
 ## Screenshots
-![Payroll System](Payroll_System/payroll.png)
+![Payroll System](Payroll_System.png)
